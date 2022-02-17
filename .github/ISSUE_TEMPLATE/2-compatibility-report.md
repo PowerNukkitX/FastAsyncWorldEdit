@@ -34,11 +34,9 @@ assignees: ''
 
 
 ### 📋 Debug information
-<!-- Use the 'debugpaste upload' and 'timings paste' command in PowerNukkit -->
-<!-- You can get the version from the file name, the 'about' or 'debugpaste' command outputs -->
-* PowerNukkit version: ✍
+<!-- Debug info of FastAsyncWorldEdit -->
+* FAWE version: ✍
 * Debug link: ✍
-* Timings link (if relevant): ✍ 
 
 ### 💢 Crash Dump, Stack Trace and Other Files
 <!-- ✍ Use https://hastebin.com for big logs or dumps -->

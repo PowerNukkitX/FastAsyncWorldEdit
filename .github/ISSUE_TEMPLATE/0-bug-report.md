@@ -29,7 +29,7 @@ assignees: ''
 
 
 ### 📋 Debug information
-<!-- 使用 'debugpaste upload' 和 'timings paste' 指令并粘贴结果至此 -->
+<!-- FastAsyncWorld的Debug信息可粘贴至此处 -->
 
 ### 💢 错误堆栈或崩溃日志
 <!-- ✍ 最好使用 https://hastebin.com -->
